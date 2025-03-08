@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.30)
 
 # Globals
-set(PROJECT_NAME "Nvenc Streamer Project")
-set(TARGET_NAME "Nvenc Streamer")
+set(PROJECT_NAME "NvencStreamer-Project")
+set(TARGET_NAME "NvencStreamer")
 
 project(${PROJECT_NAME})
 
